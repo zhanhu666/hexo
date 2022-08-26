@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: zhanhu的博客
 subtitle:
-description:
+description: 一个新手博主记录自己成长过程以及遇到的问题
 keywords:
-author: John Doe
-language:
+author: zhanhu
+language: zh-CN
 timezone:
 
 # URL
