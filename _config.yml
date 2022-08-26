@@ -4,9 +4,9 @@
 
 # Site
 title: zhanhu的博客
-subtitle:
+subtitle: 努力成为更好的自己
 description: 一个新手博主记录自己成长过程以及遇到的问题
-keywords:
+keywords: 博客,zhanhu
 author: zhanhu
 language: zh-CN
 timezone:
@@ -78,7 +78,10 @@ theme: butterfly
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repository:
+    github: https://github.com/zhanhu666/hexo
+  branch: master
 
 
 server:
