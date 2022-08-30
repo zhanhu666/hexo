@@ -7,8 +7,8 @@ tags:
   - 前端
 categories: 学习笔记
 label: 这是一篇vue2的知识点总结
-top_img: "../image/背景3.jpeg"
-cover: "../image/背景3.jpeg"
+top_img: "../image/背景5.jpg"
+cover: "../image/背景5.jpg"
 description: 这是一篇vue2的知识点总结
 ---
 
