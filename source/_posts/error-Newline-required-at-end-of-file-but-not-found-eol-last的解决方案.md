@@ -13,7 +13,7 @@ description: 有关eslint报错信息及其解决方案
 ---
 
 今天在做项目的时候开了eslint，删掉初始化的欢迎界面后报了个错
-error  Newline required at end of file but not found  eol-last
+**error  Newline required at end of file but not found  eol-last**
 这个错误信息的意思就是在文件的末尾需要空一行
 所以只需要在他报错的文件的最后面敲个回车键空上一行就可以了
 同时，再解决这个问题的时候发现了网上有人发了另一种解决方法，在此表示亲测无效，还是照样报错！！！
