@@ -104,7 +104,7 @@ https://sequelize.org/docs/v6/core-concepts/model-querying-basics/#the-basics
 
 这个问题之后，又迎来了下一个问题，这次不是接口的错，是前端传递参数的时候格式不正确
 ![](../image/node01.png)
-![](../image/node02.png)
+![](../image/node02.jpg)
 ![](../image/node03.jpg)
 这是我的原始代码，
 前端接口写的```this.form``` 传递的是我data里面收集到的表单对象，通过log一下这个和看了一下浏览器发的请求信息发现了不对劲
