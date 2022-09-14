@@ -5,8 +5,8 @@ tags:
   - 经验
   - node.js
 categories: 经验
-top_img: "../image/背景4.jpeg"
-cover: "../image/背景4.jpeg"
+top_img: "../image/背景4.jpg"
+cover: "../image/背景4.jpg"
 description: node.js写接口遇到的坑
 ---
 
