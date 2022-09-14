@@ -1,3 +1,5 @@
+这是我的第一个博客，里面记载着我学习过程的一些个小积累，由于不知名原因，他需要fanqiang才能看到，如有知道如何搞的，可以与我联系，欢迎大家一起来学习和交流！！
+
 ![Hexo Logo](https://github.com/vercel/vercel/blob/main/packages/frameworks/logos/hexo.svg)
 
 # Hexo Example
