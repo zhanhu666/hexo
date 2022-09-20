@@ -664,7 +664,7 @@ aside:
       link: https://github.com/zhanhu666
   card_announcement:
     enable: true
-    content: 热爱生活,稳步提升,在知识的海洋里找到人生的答案
+    content: 或许我走的很慢，但从未停止前进
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
