@@ -7,8 +7,8 @@ tags:
   - eslint
   - 前端
 categories: 经验
-top_img: "../image/背景2.jpg"
-cover: "../image/背景2.jpg"
+top_img: "../image/无风险06.jpg"
+cover: "../image/无风险06.jpg"
 description: 有关eslint报错信息及其解决方案
 ---
 

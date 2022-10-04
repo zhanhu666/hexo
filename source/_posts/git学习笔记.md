@@ -6,8 +6,8 @@ tags:
   - git
 categories: 学习笔记
 label: 这是一篇关于git的知识点总结
-top_img: "../image/背景8.jpg"
-cover: "../image/背景8.jpg"
+top_img: "../image/无风险07.jpg"
+cover: "../image/无风险07.jpg"
 description: 这是一篇关于git的知识点总结
 ---
 

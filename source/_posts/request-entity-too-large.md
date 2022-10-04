@@ -5,8 +5,8 @@ tags:
   - 经验
   - node
 categories: 经验
-top_img: "../image/背景6.jpg"
-cover: "../image/背景6.jpg"
+top_img: "../image/无风险04.jpg"
+cover: "../image/无风险04.jpg"
 description: node写的接口报错request entity too large
 ---
 今天在写上传头像的业务的时候发现前端点击上传头像之后报了这么一个错request entity too large，

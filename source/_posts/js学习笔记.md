@@ -7,8 +7,8 @@ tags:
   - 前端
 categories: 学习笔记
 label: 这是一篇js的知识点总结
-top_img: "../image/背景4.jpg"
-cover: "../image/背景4.jpg"
+top_img: "../image/无风险01.jpg"
+cover: "../image/无风险01.jpg"
 description: 这是一篇js的知识点总结
 ---
 

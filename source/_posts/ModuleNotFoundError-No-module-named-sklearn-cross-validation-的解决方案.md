@@ -7,8 +7,8 @@ tags:
   - 数据挖掘
   - jupyter
 categories: 经验
-top_img: "../image/背景.jpg"
-cover: "../image/背景.jpg"
+top_img: "../image/无风险02.jpg"
+cover: "../image/无风险02.jpg"
 description: 在进行数据挖掘的时候遇到的坑和解决方案
 ---
 

@@ -7,8 +7,8 @@ tags:
   - 前端
 categories: 学习笔记
 label: 这是一篇ajax的知识点总结
-top_img: "../image/背景6.jpg"
-cover: "../image/背景6.jpg"
+top_img: "../image/无风险05.png"
+cover: "../image/无风险05.png"
 description: 这是一篇ajax的知识点总结
 ---
 

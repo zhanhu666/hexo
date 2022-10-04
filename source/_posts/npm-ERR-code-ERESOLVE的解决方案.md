@@ -7,8 +7,8 @@ tags:
   - npm
   - 前端
 categories: 经验
-top_img: "../image/背景3.jpeg"
-cover: "../image/背景3.jpeg"
+top_img: "../image/无风险03.jpg"
+cover: "../image/无风险03.jpg"
 description: 有关npm报错信息及其解决方案
 ---
 今天在用```npm i element-ui -S```引入ElementUI组件库的时候报了一堆错误
